@@ -20,7 +20,6 @@ Hi,I'm Ronn Jacob🙌, a Web and Software Developer. I love getting involved in 
 In my free time, I enjoy reading up on space time scifi.
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 **Talking about Personal Stuffs:**
