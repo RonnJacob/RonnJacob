@@ -1,20 +1,20 @@
-### Hey y'all 👋 It's [Ronn!](https://ronnjacob.github.io)
+### Hi I'm [Ronn!] 💻 (https://ronnjacob.github.io)
 
 <br/>
 
-Hi,I'm Ronn Jacob🙌, a Web and Software Developer. I love getting involved in Competitive Programming and Problem Solving. 
-In my free time, I enjoy reading up on space time scifi.
+Hi,I'm Ronn Jacob, a Web and Software Developer. I love getting involved in Competitive Programming and Problem Solving. 
+I enjoy reading up on space time sci-fi in my free time.
 
 
 
 
-**Talking about Personal Stuffs:**
+**More About Me:**
 
-- 🔭 I’m currently a graduate student at Northeastern University.
-- 🌱 I’m currently learning Go.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
+- 📚 I’m currently a graduate student at Northeastern University, Boston.
+- 🖥 I’m currently learning Go.
+- 📍 Residing in Boston, MA.
+- 👫🏼 In a relationship with the most beautiful person I know.
+- 💬 Ask me about anything , Would love to answer them.
 
 
 **Languages and Tools:**
