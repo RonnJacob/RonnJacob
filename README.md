@@ -2,20 +2,6 @@
 
 <br/>
 
-
-<a href="https://twitter.com/ronnj18">
-<img align="left" alt="Ronn Jacob| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ronnjacob/">
-<img align="left" alt="Ronn Jacob | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/ronngjacob/">
-<img align="left" alt="Ronn Jacob" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br />
-
-<br />
-
 Hi,I'm Ronn Jacob🙌, a Web and Software Developer. I love getting involved in Competitive Programming and Problem Solving. 
 In my free time, I enjoy reading up on space time scifi.
 
@@ -41,3 +27,17 @@ In my free time, I enjoy reading up on space time scifi.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Ronn's github stats](https://github-readme-stats.vercel.app/api?username=ronnjacob&show_icons=true&hide_border=true)
+
+
+<a href="https://twitter.com/ronnj18">
+<img align="left" alt="Ronn Jacob| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ronnjacob/">
+<img align="left" alt="Ronn Jacob | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/ronngjacob/">
+<img align="left" alt="Ronn Jacob" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
+
+<br />
