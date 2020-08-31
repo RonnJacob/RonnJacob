@@ -13,8 +13,10 @@ I enjoy reading up on space time sci-fi in my free time.
 - 📚 I’m currently a graduate student at Northeastern University, Boston.
 - ⌨️ - I code in Java, Python and C# with web development using React Framework.
 - 🖥 I’m currently learning Go.
+- 🦸🏻‍ DC fan. 
+- 🎧 <a href="https://open.spotify.com/playlist/5QwV5bbXuvScdEIqXeod6P?si=NG9EiOo1TLaxlXbndWZUwg"> Spotify Playlist </a>
 - 📍 Residing in Boston, MA.
-- 👫🏼 In a relationship with the most beautiful person I know.
+- 👫🏼 In a relationship with an amazing woman.
 - 💬 Ask me about anything , Would love to answer them.
 
 
