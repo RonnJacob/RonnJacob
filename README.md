@@ -11,6 +11,7 @@ I enjoy reading up on space time sci-fi in my free time.
 **More About Me:**
 
 - 📚 I’m currently a graduate student at Northeastern University, Boston.
+- ⌨️ - I code in Java, Python and C# with web development using React Framework.
 - 🖥 I’m currently learning Go.
 - 📍 Residing in Boston, MA.
 - 👫🏼 In a relationship with the most beautiful person I know.
