@@ -16,7 +16,6 @@ I enjoy reading up on space time sci-fi in my free time.
 - 🦸🏻‍ DC fan. 
 - 🎧 <a href="https://open.spotify.com/playlist/5QwV5bbXuvScdEIqXeod6P?si=NG9EiOo1TLaxlXbndWZUwg"> Spotify Playlist </a>
 - 📍 Residing in Boston, MA.
-- 👫🏼 In a relationship with an amazing woman.
 - 💬 Ask me about anything , Would love to answer them.
 
 
